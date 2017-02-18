@@ -1,0 +1,8 @@
+D:\Для работы\GitHub\Test\Test\bin\Debug\Test.exe.config
+D:\Для работы\GitHub\Test\Test\bin\Debug\Test.exe
+D:\Для работы\GitHub\Test\Test\bin\Debug\Test.pdb
+D:\Для работы\GitHub\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Для работы\GitHub\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Для работы\GitHub\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\Для работы\GitHub\Test\Test\obj\Debug\Test.exe
+D:\Для работы\GitHub\Test\Test\obj\Debug\Test.pdb
