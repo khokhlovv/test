@@ -6,3 +6,12 @@ D:\Для работы\GitHub\Test\Test\obj\Debug\Test.Properties.Resources.reso
 D:\Для работы\GitHub\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
 D:\Для работы\GitHub\Test\Test\obj\Debug\Test.exe
 D:\Для работы\GitHub\Test\Test\obj\Debug\Test.pdb
+D:\Для работы\GitHub\test\bin\Debug\Test.exe.config
+D:\Для работы\GitHub\test\obj\Debug\Test.exe
+D:\Для работы\GitHub\test\obj\Debug\Test.pdb
+D:\Для работы\GitHub\test\bin\Debug\Test.exe
+D:\Для работы\GitHub\test\bin\Debug\Test.pdb
+D:\Для работы\GitHub\test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Для работы\GitHub\test\obj\Debug\Test.Form1.resources
+D:\Для работы\GitHub\test\obj\Debug\Test.Properties.Resources.resources
+D:\Для работы\GitHub\test\obj\Debug\Test.csproj.GenerateResource.Cache
